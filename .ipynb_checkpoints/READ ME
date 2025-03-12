@@ -1,1 +1,55 @@
 
+# Data for Vehicles
+
+## Description
+Data for Vehicles is a data analysis project focused on exploring and visualizing vehicle data,
+including attributes such as horsepower, width, length, fuel type, number of cylinders, and log price.
+The project leverages Python libraries like Pandas, Seaborn, and Matplotlib to perform data transformations and
+generate insightful visualizations, including bubble charts and count plots.
+
+## Installation
+To run this project locally, ensure you have Python and the required libraries installed. Use the following commands to install the dependencies:
+
+```bash
+pip install pandas seaborn matplotlib numpy
+```
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SammyMuraya-DA/data-for-vehicles.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd data-for-vehicles
+   ```
+
+3. Run the analysis scripts to generate visualizations:
+   ```bash
+   python analysis.py
+   ```
+
+## Features
+- Bubble charts to visualize the relationship between horsepower, width, and log price.
+- Count plots to analyze the distribution of fuel types and cylinder counts.
+- Custom color schemes following KRA branding guidelines.
+- Data preprocessing and transformation using Pandas.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Numpy
+
+## Contributing
+Feel free to contribute to this project by submitting pull requests or opening issues. Your input is welcome!
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries or contributions, reach out to:
+- Sammy Muraya - [GitHub Profile](https://github.com/SammyMuraya-DA)
+
